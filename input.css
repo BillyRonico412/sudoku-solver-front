@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-principal {
+    font-family: 'Bungee Inline', cursive;
+}
+
+.bg-1 {
+    background-color: rgba(0, 0, 0, 0.08);
+}
+
+.bg-2 {
+    background-color: rgba(0, 0, 0, 0.02);
+}
